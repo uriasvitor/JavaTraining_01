@@ -1,5 +1,8 @@
-public interface Controlador {
 
+
+public interface Controlador {
+    //CRIANDO UMA INTERFACE AQUI APENAS METODOS SÃO PERMITIDOS
+    // A INTERFACE SERVE PARA PROVER A APLICAÇÃO AÇÕES PARA A CLASSE
     public abstract void ligar();
     public abstract void desligar();
     public abstract void abrirMenu();
